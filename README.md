@@ -1,10 +1,10 @@
 # desobe.ir source code
 # To run it locally:
 cd into the downloaded folder and install dependencies (three and vite) as per Three.js instructions:
-# three.js
+# Install Three.js
 npm install --save three
 
-# vite
+# Install vite
 npm install --save-dev vite
 
 # To run the development server:
