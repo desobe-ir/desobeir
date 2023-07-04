@@ -7,11 +7,8 @@ npm install --save three
 # vite
 npm install --save-dev vite
 
-then:
+# To run the development server:
 npx vite
-and visit 
-http://localhost:5173
-
 
 [https://desobe.ir](https://desobe.ir) Website Code Repository.
 # For the build code see this repo:
